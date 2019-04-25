@@ -9,6 +9,9 @@ contributor:
     gutenberg_agent_id: '6307'
     url: http://www.gutenberg.org/2009/agents/6307
     wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+covers:
+- cover_type: archival
+  image_path: 59307-h/images/cover.jpg
 creator:
   author:
     agent_name: Von Arnim, Elizabeth
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/603
     wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/59307#The-April-Baby-s-Book-of-Tunes-with-the-story-of-how-they-came-to-be-written
 gutenberg_issued: '2019-04-18'
 gutenberg_type: Text
 identifiers:
