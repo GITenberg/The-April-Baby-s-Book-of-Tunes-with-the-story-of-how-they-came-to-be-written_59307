@@ -1,0 +1,40 @@
+_repo: The-April-Baby-s-Book-of-Tunes-with-the-story-of-how-they-came-to-be-written_59307
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Greenaway, Kate
+    alias: Greenaway, K. (Kate)
+    birthdate: 1846
+    deathdate: 1901
+    gutenberg_agent_id: '6307'
+    url: http://www.gutenberg.org/2009/agents/6307
+    wikipedia: http://en.wikipedia.org/wiki/Kate_Greenaway
+creator:
+  author:
+    agent_name: Von Arnim, Elizabeth
+    aliases:
+    - Arnim, Elizabeth von
+    - Arnim-Schlagenthin, Countess Elizabeth von
+    - Russell, Mary Annette Beauchamp Russell, Countess
+    - Cholmondeley, Alice
+    - Beauchamp, Mary Annette
+    birthdate: 1866
+    deathdate: 1941
+    gutenberg_agent_id: '603'
+    url: http://www.gutenberg.org/2009/agents/603
+    wikipedia: http://en.wikipedia.org/wiki/Elizabeth_von_Arnim
+description: ''
+gutenberg_issued: '2019-04-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '59307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The April Baby''s Book of Tunes
+
+  with the story of how they came to be written'
+url: http://www.gutenberg.org/ebooks/59307
